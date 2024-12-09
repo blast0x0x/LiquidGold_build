@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>Binance-BNB-Icon-Logo</title>
+	<defs>
+		<image  width="6" height="6" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAMAAADXEh96AAAAAXNSR0IB2cksfwAAADNQTFRFAAAA8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkL8LkLIaXCDAAAABF0Uk5TAAMFC1tiDlrl52MEYelpZBG7eWm7AAAALElEQVR4nGNgYGBkYgACZhZWNiCbnYOTi5GBm4eTl4+bgYGNn08AJMkIZAMADS4Av1PFrJwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #0b0e11 } 
+		.s1 { fill: #f0b90b } 
+	</style>
+	<path id="Layer" class="s0" d="m12 23.5c-6.4 0-11.5-5.1-11.5-11.5 0-6.4 5.1-11.5 11.5-11.5 6.4 0 11.5 5.1 11.5 11.5 0 6.4-5.1 11.5-11.5 11.5z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m6.9 8.8l5.1-5.1 5.1 5.1-1.9 1.9-3.2-3.3-3.2 3.3zm-1.4 1.3l1.9 1.9-1.9 1.9-1.8-1.9zm3.2 3.2l3.2 3.2 3.2-3.2 1.9 1.9-5.1 5.1-5.1-5.1zm11.5-1.4l-1.8 1.9-1.9-1.9 1.9-1.8z"/>
+	<use id="Layer" href="#img1" x="9" y="9"/>
+</svg>

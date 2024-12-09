@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>bitcoin-cash-bch-logo</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAQhQTFRFAAAACsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOCsGOC8GODsKQCsGOCsGOCsGOI8eZVdSxD8KQV9WxmubQz/PpZNi3TNKsDcKPUNOunubT6Pn02PXt1vXs4vjyL8qfCsGOCsGOSNGrj+LL2/buPs6mUtOw4/jyStGrDMKPCsGOCsGODMGPMMqg8vz5penWzfLo+f78nubSJsibCsGOCsGO4PjxtezdF8SUQ9Co9Pz6eN3Au+7g0PPpKcmcfd7DV9WyCsGOCsGOIseZzvPp3ffvMMugCsGOddy/punWgt/Fp+nWCsGOCsGOJciaJMiaCsGOCsGOCsGOGMlOIAAAAFh0Uk5TAAUYN0hHAFmx4OjfWCuq////pyr1/////////////////////64V///////////kPP//////////7Ez//////////////+M7/////63/////VwT//6WmKWBUYPkAAADYSURBVHicNY9rW4JQEITPAQXEywBiV1MzRU0LrbSg8laBmWmS1v//J+6hnE+77+4zO8sYiUtyIilLnP1LUbWUrqe1jPLXZ3OAYYJk5eN5zoZZOBDAtmiHq8Dh0fHJafGMkMqZpAGlcuW8elEjUHeYnAIazdZlu3N1DbhdltCB3s3tXX9w/wB4PksSgPH49DwcjWMgp4X/ZPryWnkDgjA2xex9NO9/0JmFw3hGgM/l6ktsriMKZtlUfW8oq72Nw+d/hK2Yb3/3z9VdzwsWa2X/Lne6vh86kah332AZNGeOypQAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
