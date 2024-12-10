@@ -1,1 +1,0 @@
-(this["webpackJsonpgambit-interface"]=this["webpackJsonpgambit-interface"]||[]).push([[14],{1005:function(i,t){}}]);
