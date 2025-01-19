@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-	<title>download (1)</title>
-	<defs>
-		<image  width="24" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAMAAAA7+k+nAAAAAXNSR0IB2cksfwAAAb9QTFRF////////////AAAA9HRx9yUn+RAS+RMV+Csp8oKD////////9T9A9yco+hET+wgK+wkL+xES9ygp9Dg59yor+Rsb/AcI/gID/gEC/gID/QkK+hsa+TIy+Rob/AgJ/gEC/QkK+SIj9UtK9y4u/QQF/Hp6/HBx/DY2/Sor/R0e/hQU/gUG/QgJ9ysr8D09+C4u+hUV/IuL+7Cv+1hY/FdX+3R0+4CA/VNT/goL/gID+RUW8js7+R4f/AkK/S4u/HR0/GJi/FFR/FNT+4uL+25v/IqK/A0N+iEh+g0O/AQF/hMU/ISE/hUV/VZW/K6u+3+A+319/JaV/QcI+CAg+g0O/AQF/Sss/VdY/UBA/S8w/Hh4/RUW/QcI9yAi+h0d/QkK/IWF/Gdn/C4v/Hl5/Rwd/A0O+iEh9yws+hUW/FRU/Le3+318/Swt/gID+R4e9FJT9ERE+DAw/QUG/Sgp/cDA/Do6/gYH/QgJ+Dk39GJg+hcY/QcI/gQE/RER/AoL+SAh9yAh+hoa/QsM/gME/AwN+iAg9ygo9kJB+CYn+xgZ+xgZ+xYX+xQV+C0s9ElM8XBz9UtL+Dc49zU09EJA8YiDGX8qsgAAAJV0Uk5TFKr/AAEKDg4JAY8MCj6ImpmDNAcKR+H9//zXNwdU1P7IQgEi9P/////////qEgAIdv///////////1YEIsr//////////7cVKtT//////////8ogKdP////////JHyDH//////+zFAdu//////5SAwEc8P/////hEABHy///vzcHO9f6yS8FBi10lJFtJAQABg0MBQASG+sNAAAA80lEQVR4nGNgYGRiYgYBFlY2dg5OMJOJiYubASbBw8vHLyAoJIwmISIqJi4BBJJS0jIoErJyEhAgr6CIJKGkrCKhqqauoamlLSGho6sHl9A3kJAwNDI2MTUzt5CwtLKGS9jYSkjY2Ts4Ojm7uEpIuLnDJTw8JSS8vH18/fwDAiUkgoLhEiGhQGvDwiMiNaOiJSRiYuEScfFACe2ExKTkFEsJidQ0uER6BsilmVnZOUAqNy8fLlFQWAQUKS4pLQNS5RWVSB6sqraUqKkFqa+rR/F5Q2OTJMi45pbWNrRAbO/o7Oru6e3DCF3m/gkTJ02eAg92AHJiM+j66jxxAAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="Background" href="#img1" x="-4" y="0"/>
-</svg>
